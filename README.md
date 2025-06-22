@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=006400&text=Tyler%20Arcilla&reversal=false&textBg=false&desc=Web%20Developer%20|%20IT%20Stuent&descAlign=50&descAlignY=70&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=006400&text=Tyler%20Arcilla&reversal=false&textBg=false&desc=Web%20Developer%20|%20IT%20Stuent&descAlign=50&descAlignY=50&fontColor=FFFFFF" width="100%" />
   
   <p align="center">
     <!--<a href="https://www.linkedin.com/in/keanu-bembo-bb2328338/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
