@@ -7,7 +7,7 @@
     <a href="https://github.com/tylertakeswalls"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   
-  <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=006400&center=true&vCenter=true&width=500&lines=Aspiring+Fullstack+Web+Developer;Accepting+Internships;IT+Undergraduate+at+DLSU-D" alt="Typing SVG" /></a>" /></a>
+  <a href="https://git.io/typing-svg"><img src="href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=006400&center=true&vCenter=true&width=500&lines=Aspiring+Fullstack+Web+Developer;Accepting+Internships;IT+Undergraduate+at+DLSU-D" alt="Typing SVG" /></a>
 </div>
 
 ## 🧑‍💻 About Me
@@ -75,10 +75,6 @@ I'm always open to discussing technology, web development, or potential collabor
 - Email: [tyler.arcilla2003@gmail.com](mailto:tyler.arcilla2003@gmail.com)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E17EB,100:4D77FF&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=006400&reversal=false&textBg=false&descAlign=50&descAlignY=70&fontColor=FFFFFF&section=footer" width="100%" />
 </div>
 
-<!-- Profile visitors count -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Keonbe&color=4D77FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
