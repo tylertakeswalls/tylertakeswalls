@@ -47,7 +47,7 @@ Hello! I'm **Tyler Arcilla**, an enthusiastic IT student specializing in Web Dev
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,,pycharm,github,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,pycharm,github,windows&theme=dark" />
   </a>
 </p>
 </details>
