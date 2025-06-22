@@ -7,7 +7,7 @@
     <a href="https://github.com/tylertakeswalls"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   
-  <a href="https://git.io/typing-svg"><img src="href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=006400&center=true&vCenter=true&width=500&lines=Aspiring+Fullstack+Web+Developer;Accepting+Internships;IT+Undergraduate+at+DLSU-D" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=006400&center=true&vCenter=true&width=500&lines=Aspiring+Fullstack+Web+Developer;Accepting+Internships;IT+Undergraduate+at+DLSU-D" alt="Typing SVG" /></a>
 </div>
 
 ## 🧑‍💻 About Me
