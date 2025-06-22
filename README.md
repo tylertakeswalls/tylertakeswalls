@@ -67,10 +67,9 @@ Hello! I'm **Tyler Arcilla**, an enthusiastic IT student specializing in Web Dev
 
 </div>
 
-## 🤝 Let's Connect!
+## 🤝 Connect With Me!
 
-I'm always open to discussing technology, web development, or potential collaborations. Feel free to reach out to me on:
-
+I'm always eager to talk about tech, web development, or possible collaborations. Don’t hesitate to connect with me through:
 
 - Email: [tyler.arcilla2003@gmail.com](mailto:tyler.arcilla2003@gmail.com)
 
