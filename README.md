@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=200&section=header&text=Tyler%20Arcilla&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20IT%20Student&descAlignY=60&descSize=20" width="100%" />
+  
+  <p align="center">
+    <!---->
+    <a href="mailto:tyler.arcilla2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/tylertakeswalls"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=006400&center=true&vCenter=true&width=500&lines=Aspiring+Fullstack+Web+Developer;Accepting+Internships;IT+Undergraduate+at+DLSU-D" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**tylertakeswalls/tylertakeswalls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+Hello! I'm **Tyler Arcilla**, an enthusiastic IT student specializing in Web Development from Cavite, Philippines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently taking up a Bachelor of Science in Information Technology, majoring in Web Development at [De La Salle University – Dasmariñas](https://www.dlsud.edu.ph/)
+- 🌱 Continuously honing my skills in full-stack web development
+- 🔍 Open to internship roles and collaboration projects
+- 💡 Driven by a passion for building responsive, user-centered web applications
+- 🌐 Always exploring the latest tools, technologies, and trends in web development
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,python,js&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>Web Development</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,dotnet,mysql,firebase,laravel&theme=dark" />
+  </a>
+</p>
+</details>
+
+<details open>
+<summary><b>Tools & Platforms</b></summary>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,pycharm,github,windows&theme=dark" />
+  </a>
+</p>
+</details>
+
+## 📚 Currently Learning
+- Javascript & React.js for frontend development
+- Node.js and PHP for backend solutions
+- MySQL for database management
+
+
+
+## 🤝 Connect With Me!
+
+I'm always eager to talk about tech, web development, or possible collaborations. Don’t hesitate to connect with me through:
+
+- Email: [tyler.arcilla2003@gmail.com](mailto:tyler.arcilla2003@gmail.com)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=006400&reversal=false&textBg=false&descAlign=50&descAlignY=70&fontColor=FFFFFF&section=footer" width="100%" />
+</div>
