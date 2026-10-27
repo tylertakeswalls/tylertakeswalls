@@ -27,7 +27,7 @@ Hello! I'm **Tyler Arcilla**, an enthusiastic IT student specializing in Web Dev
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,python,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,ts,java,cs,python,js,php,postgres,mysql,dotnet&theme=dark" />
   </a>
 </p>
 </details>
@@ -37,7 +37,7 @@ Hello! I'm **Tyler Arcilla**, an enthusiastic IT student specializing in Web Dev
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,ts,bootstrap,dotnet,mysql,firebase,laravel,azure,cloudflare,firebase,mongodb,nodejs,php,postgres,vercel,vite,supabase,tailwind,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,firebase,laravel,azure,cloudflare,firebase,mongodb,nodejs,vercel,vite,supabase,&theme=dark" />
   </a>
 </p>
 </details>
