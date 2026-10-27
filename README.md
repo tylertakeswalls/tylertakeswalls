@@ -37,7 +37,7 @@ Hello! I'm **Tyler Arcilla**, an enthusiastic IT student specializing in Web Dev
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,dotnet,mysql,firebase,laravel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,ts,bootstrap,dotnet,mysql,firebase,laravel,azure,cloudflare,firebase,mongodb,nodejs,php,postgres,vercel,vite,supabase,tailwind,&theme=dark" />
   </a>
 </p>
 </details>
@@ -47,7 +47,7 @@ Hello! I'm **Tyler Arcilla**, an enthusiastic IT student specializing in Web Dev
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,pycharm,github,windows&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,figma,pycharm,github,git,docker,windows,linux,ubuntu&theme=dark" />
   </a>
 </p>
 </details>
